@@ -68,3 +68,9 @@ Préparer l'ensemble des pages web ergonomiques permettant à l'utilisateur d'ac
 ##### Développements Application mobile
 
 Préparer l'ensemble des activités Android ergonomiques permettant à l'utilisateur d'accéder aux fonctionnalités prévues 
+
+### Technologies utilisées 
+
+| Front                         | Back                       | Application Android |
+|-------------------------------|----------------------------|---------------------|
+| Node.js React Redux Bootstrap | Node.js Express.js MongoDB | Java Android XML    |

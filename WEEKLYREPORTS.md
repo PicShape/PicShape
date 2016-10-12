@@ -100,3 +100,12 @@ Administrateur Recette
 Support développement Front-End
 Support développement Application mobile
 
+### Compte-rendu de la semaine
+
+#### Global
+
+Choix des techniques et langages utilisés. 
+Détermination du contenu des lots.
+Distribution des rôles.
+Documentation sur les langages et techniques utilisés.
+

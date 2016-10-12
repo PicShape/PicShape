@@ -121,30 +121,24 @@ Début de la formation React
 
 #### Benjamin Debotté
 
-Développement du Back :
-
-Création du projet node.js
-
+Développement du Back 
+Création du projet node.js 
 Routage des URLs
 
 #### Emerik Bédouin
 
 Développement de l'application Android
 
-Guillaume Prier
+#### Guillaume Prier
 
-Formation Node.js
+Formation Node.js 
+Spécialisation Back-end
 
-#### Spécialisation Back-end
-
-Romain Chautemps
-
+#### Romain Chautemps 
 Formation Node.js
 
 #### Avancement du lot 1
 
-Back : 56%
-
-Application Android : 60%
-
+Back : 56% 
+Application Android : 60% 
 Front : 5%

@@ -38,4 +38,33 @@ Présenter une première version du site web et de l'application mobile dans laq
 ##### Développements Application mobile
 
  Préparer l'activité de l'application mobile permettant à l'utilisateur d'y déposer l'image qu'il souhaite transformer ainsi que l'activité de résultat sur laquelle l'utilisateur pourra récupérer l'image modifiée. Il faudra également prévoir que l'utilisateur puisse prendre une photo sur son smartphone et directement l'envoyer comme image à transformer par notre application.
+ 
+#### Second lot : Site plus complet - fonctionnalités de réseau social 
 
+##### Date de livraison prévue
+ 
+Séance du Mercredi 09/11/2016.
+
+##### Objectifs
+
+Présenter une seconde version du site web et de l'application mobile. PicShape devient une plateforme sociale (Instagram-like). Il est désormais possible pour l'utilisateur, en plus des fonctionnalités du lot 1, de :
+- Posséder un compte (avec avatar)
+- Uploader des images non transformées par l'outil
+- Sauvegarder les images (transformées ou non) de manière durable
+- Consulter ses images transformées précédemment 
+- Avoir une liste de contacts privilégiés (amis, abonnés ...)
+- Paramétrer la visibilité de ses images (public, contacts uniquement, liste de contacts autorisés à voir l'image ...)
+- Commenter les images transformées par ses contacts (selon visibilité)
+
+
+##### Développements Back-End
+ 
+Préparer les fonctions permettant au Front-End d'exécuter les fonctionnalités prévues
+ 
+##### Développements Front-End
+
+Préparer l'ensemble des pages web ergonomiques permettant à l'utilisateur d'accéder aux fonctionnalités prévues 
+
+##### Développements Application mobile
+
+Préparer l'ensemble des activités Android ergonomiques permettant à l'utilisateur d'accéder aux fonctionnalités prévues 

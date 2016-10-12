@@ -12,10 +12,22 @@
 
 ## Semaine n°1 - du 03/10/2016 au 07/10/2016
 
-### Repositories
-Organization link : https://github.com/PicShape
+### Détermination des lots
+#### Premier lot :   Site succinct - Transformation d'une image sans sauvegarde 
+Date de livraison prévue:
+Séance du Vendredi 21/10/2016 pour une démonstration le Lundi 24/10/2016.
+Objectifs:
+Présenter une première version du site web et de l'application mobile dans laquelle il est possible pour l'utilisateur de :
+- Déposer l'image qu'il souhaite transformer (faire glisser et bouton 'Parcourir')
+- Récupérer l'image transformée (avec un paramétrage par défaut)
+- Sur l'application mobile : pouvoir prendre une photo et la transformer directement en interne
+Développements Back-End:
+Préparer l'API permettant au Front-End d'accéder au service de reproduction d'une image en utilisant des primitives géométriques (formes géométriques de base)
+Développements Front-End:
+Préparer la page du site Web permettant à l'utilisateur d'y déposer l'image qu'il souhaite transformer ainsi que la page de résultat sur laquelle l'utilisateur pourra récupérer l'image modifiée.
+Développements Application mobile: 
+Préparer l'activité de l'application mobile permettant à l'utilisateur d'y déposer l'image qu'il souhaite transformer ainsi que l'activité de résultat sur laquelle l'utilisateur pourra récupérer l'image modifiée. Il faudra également prévoir que l'utilisateur puisse prendre une photo sur son smartphone et directement l'envoyer comme image à transformer par notre application.
 
-Global repository : https://github.com/PicShape/picshape
 
 __Direct GitHub links :__
 

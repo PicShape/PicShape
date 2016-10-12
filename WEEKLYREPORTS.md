@@ -84,6 +84,7 @@ Administrateur Front-End
 #### Benjamin Debotté
 
 Administrateur Gestion de projet 
+
 Support développement Back-End
 
 #### Emerik Bédouin
@@ -97,7 +98,9 @@ Administrateur Back-End
 #### Romain Chautemps
 
 Administrateur Recette 
+
 Support développement Front-End 
+
 Support développement Application mobile 
 
 ### Compte-rendu de la semaine

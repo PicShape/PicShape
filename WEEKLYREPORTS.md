@@ -1,18 +1,18 @@
 
-# PicShape
-*Making pictures shaped again.*
-
-![Mosaic](resources/mosaic.png)
+# PicShape - Compte-rendus hebdomadaires
 
 
-## Organization
+## Participants
+* Anthony Bonnemains
+* Benjamin Debotté
+* Emerik Bédouin
+* Guillaume Prier
+* Romain Chautemps
 
-- Project management is done inside each project (ex : https://github.com/PicShape/front/projects/1)
 
-- Each project day start with a Stand-Up to define objectives, talk about new ideas and encountered difficulties.
+## Semaine n°1 - du 03/10/2016 au 07/10/2016
 
-
-## Repositories
+### Repositories
 Organization link : https://github.com/PicShape
 
 Global repository : https://github.com/PicShape/picshape

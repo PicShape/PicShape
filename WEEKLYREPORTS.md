@@ -135,6 +135,7 @@ Formation Node.js
 Spécialisation Back-end
 
 #### Romain Chautemps 
+
 Formation Node.js
 
 #### Avancement du lot 1

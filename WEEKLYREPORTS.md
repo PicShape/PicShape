@@ -109,3 +109,34 @@ Détermination du contenu des lots.
 Distribution des rôles.
 Documentation sur les langages et techniques utilisés.
 
+## Semaine n°2 - du 10/10/2016 au 15/10/2016
+
+### Compte-rendu
+
+#### Anthony Bonnemains
+
+Suite de la formation Node.js
+Début de la formation React
+
+#### Benjamin Debotté
+
+Développement du Back :
+Création du projet node.js
+Routage des URLs
+
+#### Emerik Bédouin
+
+Développement de l'application Android
+Guillaume Prier
+Formation Node.js
+
+#### Spécialisation Back-end
+
+Romain Chautemps
+Formation Node.js
+
+#### Avancement du lot 1
+
+Back : 56%
+Application Android : 60%
+Front : 5%

@@ -74,3 +74,29 @@ Préparer l'ensemble des activités Android ergonomiques permettant à l'utilisa
 | Front                         | Back                       | Application Android |
 |-------------------------------|----------------------------|---------------------|
 | Node.js React Redux Bootstrap | Node.js Express.js MongoDB | Java Android XML    |
+
+### Distribution des rôles sein du projet
+
+#### Anthony Bonnemains
+
+Administrateur Front-End
+
+#### Benjamin Debotté
+
+Administrateur Gestion de projet
+Support développement Back-End
+
+#### Emerik Bédouin
+
+Administrateur Application mobile
+
+#### Guillaume Prier
+
+Administrateur Back-End
+
+#### Romain Chautemps
+
+Administrateur Recette 
+Support développement Front-End
+Support développement Application mobile
+

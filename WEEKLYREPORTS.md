@@ -117,7 +117,7 @@ Documentation sur les langages et techniques utilisés.
 
 ## Semaine n°2 - du 10/10/2016 au 15/10/2016
 
-### Compte-rendu
+### Compte-rendu de la semaine
 
 #### Anthony Bonnemains
 

@@ -13,6 +13,7 @@
 ## Semaine n°1 - du 03/10/2016 au 07/10/2016
 
 ### Détermination des lots
+
 #### Premier lot : Site succinct - Transformation d'une image sans sauvegarde 
 
  __**Date de livraison prévue**__
@@ -22,9 +23,9 @@ Séance du Vendredi 21/10/2016 pour une démonstration le Lundi 24/10/2016
  __**Objectifs**__
 
 Présenter une première version du site web et de l'application mobile dans laquelle il est possible pour l'utilisateur de :
- - Déposer l'image qu'il souhaite transformer (faire glisser et bouton 'Parcourir')
- - Récupérer l'image transformée (avec un paramétrage par défaut)
- - Sur l'application mobile : pouvoir prendre une photo et la transformer directement en interne
+- Déposer l'image qu'il souhaite transformer (faire glisser et bouton 'Parcourir')
+- Récupérer l'image transformée (avec un paramétrage par défaut)
+- Sur l'application mobile : pouvoir prendre une photo et la transformer directement en interne
  
  __**Développements Back-End:**__
 

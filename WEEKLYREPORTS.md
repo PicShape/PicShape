@@ -79,7 +79,7 @@ Préparer l'ensemble des activités Android ergonomiques permettant à l'utilisa
 
 #### Anthony Bonnemains
 
-Administrateur Front-End
+Administrateur Front-End 
 
 #### Benjamin Debotté
 
@@ -88,17 +88,17 @@ Support développement Back-End
 
 #### Emerik Bédouin
 
-Administrateur Application mobile
+Administrateur Application mobile 
 
 #### Guillaume Prier
 
-Administrateur Back-End
+Administrateur Back-End 
 
 #### Romain Chautemps
 
 Administrateur Recette 
-Support développement Front-End
-Support développement Application mobile
+Support développement Front-End 
+Support développement Application mobile 
 
 ### Compte-rendu de la semaine
 

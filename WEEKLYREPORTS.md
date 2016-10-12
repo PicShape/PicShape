@@ -83,7 +83,7 @@ Administrateur Front-End
 
 #### Benjamin Debotté
 
-Administrateur Gestion de projet
+Administrateur Gestion de projet 
 Support développement Back-End
 
 #### Emerik Bédouin
@@ -105,9 +105,9 @@ Support développement Application mobile
 #### Global
 
 Choix des techniques et langages utilisés. 
-Détermination du contenu des lots.
-Distribution des rôles.
-Documentation sur les langages et techniques utilisés.
+Détermination du contenu des lots. 
+Distribution des rôles. 
+Documentation sur les langages et techniques utilisés. 
 
 ## Semaine n°2 - du 10/10/2016 au 15/10/2016
 
@@ -123,7 +123,7 @@ Début de la formation React
 
 Développement du Back 
 Création du projet node.js 
-Routage des URLs
+Routage des URLs 
 
 #### Emerik Bédouin
 

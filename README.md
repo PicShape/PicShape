@@ -25,6 +25,11 @@ __Direct GitHub links :__
 ## DevOps tools
 
  - Travis-CI : https://travis-ci.org/PicShape
+    Travis-CI is a Continuous Integration tool dedicated to build and tests the application along with our development process.
+
  - Heroku
    - https://dashboard.heroku.com/apps/picshape-front
    - https://dashboard.heroku.com/apps/picshape-engine
+    Heroku is a Platform as a Service dedicated to deploy our solution if all tests done by Travis-CI are successfully done on `develop` branch.
+ - bitHound : https://www.bithound.io/github/PicShape
+    bitHound tracks quality over node.js projects by doing code analysis and dependancies checking. These metrics helps to enhance code and focus on best practice. 

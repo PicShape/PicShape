@@ -149,3 +149,50 @@ Formation Node.js
 Back : 56% 
 Application Android : 60% 
 Front : 5%
+
+## Semaine n°3 - du 17/10/2016 au 21/10/2016
+
+### Compte-rendu de la semaine
+
+#### Anthony Bonnemains
+
+Suite de la formation React
+
+Développement front-end lot 1
+
+#### Benjamin Debotté
+
+Développement du Back 
+
+Création de la chaine d'intégration continue
+-> Configuration Heroku, Travis
+
+#### Emerik Bédouin
+
+Développement de l'application Android
+
+Support création de la chaîne d'intégration continue
+
+Tests unitaires application Android lot 1
+
+#### Guillaume Prier
+
+Développement Back-end lot 1
+
+Tests unitaires Back-end lot 1
+
+#### Romain Chautemps 
+
+Formation Node.js
+
+Support Back-end lot 1 
+
+Tests unitaires application Android lot 1
+
+#### Avancement du lot 1
+
+Back : 100% 
+
+Application Android : 100% 
+
+Front : 60%

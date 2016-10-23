@@ -10,7 +10,7 @@ services:
     front:
         image: picshape/picshape-front
         ports:
-            - "80:80"
+            - "80:3000"
         volumes:
             - .:/app/front
         depends_on:

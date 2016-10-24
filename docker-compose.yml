@@ -1,17 +1,15 @@
 version: '2'
 services:
     engine:
-        image: picshape/picshape-engine
+        image: picshape/picshape-engine:latest
         ports:
             - "8080:8080"
-        volumes:
-            - .:/app/engine/
+
 
     front:
-        image: picshape/picshape-front
+        image: picshape/picshape-front:latest
         ports:
             - "80:3000"
-        volumes:
-            - .:/app/front
+
         depends_on:
             - engine
